@@ -3,7 +3,7 @@ A product comparison application (Final Project in [Application Development usin
 
 # What does the project do?
 ## Scenario
-Given repositories containing the code for backend microservices, my task was to deploy them using serverless (IBM Code Engine) and obtain URLs to access their respective API endpoints. Additionally, I cloned another repository containing the code for a front-end microservice. After deploying all microservices, I accessed the front-end application through its deployment URL. My task was to showcase the seamless integration of the microservices by providing screenshots of the final application.
+Given repositories containing the code for backend microservices, my task was to deploy them using serverless (IBM Cloud Code Engine) and obtain URLs to access their respective API endpoints. Additionally, I cloned another repository containing the code for a front-end microservice. After deploying all microservices, I accessed the front-end application through its deployment URL. My task was to showcase the seamless integration of the microservices by providing screenshots of the final application.
 
 ## Review Criteria
 1. Deploy the Microservice for Product Details.
@@ -14,7 +14,7 @@ Given repositories containing the code for backend microservices, my task was to
 6. Open the deployment link.
 
 # Why is the project useful?
-The project is a chance to put my IBM Code Engine skills into practice.
+The project is a chance to put my IBM Cloud Code Engine skills into practice.
 
 # How can users can get started with the project?
 You can run the application in [an IBM Skills Network lab environment](https://skills.network).
