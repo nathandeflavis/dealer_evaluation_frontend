@@ -1,5 +1,6 @@
 # dealer_evaluation_frontend
 A product comparison application (Final Project in [Application Development using Microservices and Serverless](https://www.coursera.org/learn/applications-development-microservices-serverless-openshift) course, part of [IBM Full Stack Software Developer Professional Certificate](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer)).
+<img width="922" alt="product_all_dealers_price" src="https://github.com/user-attachments/assets/51cee987-4d2c-462b-9135-9ba95d383aa9" />
 
 # What does the project do?
 ## Scenario
