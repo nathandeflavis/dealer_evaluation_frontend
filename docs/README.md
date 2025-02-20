@@ -3,6 +3,8 @@ A product comparison application (Final Project in [Application Development usin
 
 <img width="922" alt="product_all_dealers_price" src="https://github.com/user-attachments/assets/51cee987-4d2c-462b-9135-9ba95d383aa9" />
 
+Dealer evaluation front end in Apple macOS Safari.
+
 # What does the project do?
 ## Scenario
 Given repositories containing the code for backend microservices, my task was to deploy them using serverless (IBM Cloud Code Engine) and obtain URLs to access their respective API endpoints. Additionally, I cloned another repository containing the code for a front-end microservice. After deploying all microservices, I accessed the front-end application through its deployment URL. My task was to showcase the seamless integration of the microservices by providing screenshots of the final application.
