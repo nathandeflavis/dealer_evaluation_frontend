@@ -31,7 +31,7 @@ You can run the application in [an IBM Skills Network lab environment](https://s
 
 ### Deploy the Frontend Microservice
 1. In the terminal, go to `/home/project` directory: `cd /home/project`
-2. Clone this repository in your `/home/project` directory: `git clone https://github.com/nathandeflavis/dealer_evaluation_frontend.git`
+2. Clone this repository in your `/home/project` directory: `git clone https://github.com/nathangjdf/dealer_evaluation_frontend.git`
 3. Change to the `dealer_evaluation_frontend` directory: `cd dealer_evaluation_frontend`
 4. Deploy the Dealer Evaluation frontend microservice: `ibmcloud ce application create --name frontend --image us.icr.io/${SN_ICR_NAMESPACE}/frontend --registry-secret icr-secret --port 5001 --build-source .`
 5. Open the link in the output.
@@ -40,6 +40,6 @@ You can run the application in [an IBM Skills Network lab environment](https://s
 Users can contact the project's maintainers and contributors for help.
 
 # Who maintains and contributes to the project?
-@nathandeflavis
+@nathangjdf
 
 README adapted from [GitHub Docs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes).
