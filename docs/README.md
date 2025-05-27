@@ -1,6 +1,10 @@
 # dealer_evaluation_frontend
 A product comparison application ('Final Project' in [Application Development using Microservices and Serverless](https://www.coursera.org/learn/applications-development-microservices-serverless-openshift) course, part of [IBM Full Stack Software Developer Professional Certificate](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer)).
 
+<img width="922" alt="product_all_dealers_price" src="https://github.com/user-attachments/assets/f6c5a5b7-0b8d-44b1-906b-dc3f32795514" />
+
+Front-end in Apple macOS Safari.
+
 # What does the project do?
 ## Scenario
 Given repositories containing the code for backend microservices, my task was to deploy them using serverless (IBM Cloud Code Engine) and obtain URLs to access their respective API endpoints. Additionally, I cloned another repository containing the code for a front-end microservice. After deploying all microservices, I accessed the front-end application through its deployment URL. My task was to showcase the seamless integration of the microservices by providing screenshots of the final application.
